@@ -1,0 +1,13 @@
+data/
+results/
+figs/
+benchmarks/
+tests/
+evaluation/
+__pycache__/
+.pytest_cache/
+.claude/
+.DS_Store
+bioconda_prep_plan.md
+CLAUDE.md
+AGENTS.md
